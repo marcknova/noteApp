@@ -31,3 +31,6 @@ Crear una aplicación de notas con las siguientes funcionalidades:
   - Persistencia de notas por usuario:
  1. Guardar las notas en una base de datos local
     se tomo la idea de hacerlo en firebase y firestore
+
+para correr la aplicacion simplemente clone el repositorio 
+y ejecute npm install dentro de la carpeta y ejecute npm run dev
